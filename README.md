@@ -39,6 +39,7 @@
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/FirstJoinOverview.png)
 
+## Begin Analysis
 #### How many Dentists are in each of the counties? 
 ![]()
 
