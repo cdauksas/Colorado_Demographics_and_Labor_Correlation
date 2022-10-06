@@ -1,5 +1,5 @@
 # Colorado Licensed Professionals and Demographics Correlation :mountain_snow:
-### I asked the question: For various licensed professionals in the state of Colorado, are there any geographic characteristics (e.g., household income levels) at the county level that are highly associated with various professions?
+### I asked the question: For various licensed professionals in the state of Colorado, are there any characteristics (e.g., household income levels) at the county level that are highly associated with various professions?
  - For example: are Colorado dentists more likely to be licensed in high-income counties?
  - In order to do this project I joined tables from the US Census Bureau that contained Colorado Demographics and Colorado Licensed Professional tables
 ###
@@ -9,6 +9,7 @@
 #### Next, I reviewed the tables in Microsoft SQL Server and combined the 3 tables using Union statements into one table 'CO_Professional'
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/combining3Tables.png)
 
+### Data Cleaning
 #### I deleted columns that weren't going to be used for this analysis:
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/droppingColumns.png)
 
@@ -42,6 +43,21 @@
 ![]()
 
 
-#### Which counties have relatively high numbers of dentists? In order to do this I have divide the Population / Count of dentists. Let's also pull in Mean Household Income per county. 
+#### Which counties have relatively high numbers of dentists? 
+  - For the percent of dentists in each county i did ( [Population Over 16] / Count of dentists) * 100. Let's also pull in [Mean Household Income] per county, this will be useful for our visualizations
+  
+![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SanJuan.75.png)
+
+#### San Juan has .75% of its population over 16 as dentists! The total population for folks 16 years and over is only 537. This seems to be an outlier, lets only consider counties where the population is greater than 10,000 and has more than 10 dentists.
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/PrcntDentistsandMeanIncome.png)
+
+#### Are there relatively more dentists in counties with a higher percentage of females?
+ - I will create a column named Percent_Dentists (Population/Count of Dentists) , and also create a column Percent_female (Female Population / Population)
+![]()
+
+#### Are there relatively more dentists in counties with a higher percentage of Armed Forces?
+ ![]()
+ 
+#### Let's now take a look at the plumbers. Let's see what counties have a higher percentage of plumbers and compare that to average household income.
+![]()
