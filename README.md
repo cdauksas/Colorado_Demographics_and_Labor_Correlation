@@ -45,7 +45,7 @@
 
 
 #### Which counties have relatively high numbers of dentists? 
-  - For the percent of dentists in each county i did ( [Population Over 16] / Count of dentists) * 100. Let's also pull in [Mean Household Income] per county, this will be useful for our visualizations
+  - For the percent of dentists in each county I computed: Percent_dentists = ( [Population Over 16] / Count of dentists) * 100. Let's also pull in [Mean Household Income] per county. I can then compare counties with high dentists to see if there is a correlation to larger household incomes.
   
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SanJuan.75.png)
 
