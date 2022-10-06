@@ -3,7 +3,7 @@
  - For example: are Colorado dentists more likely to be licensed in high-income counties?
  - In order to do this project I joined tables from the US Census Bureau and Colorado Department of Regulatory Agencies
 ###
-#### I began the by going to the [Colorado Division of Professions and Occupations webiste](https://apps.colorado.gov/DORA/licensing/Lookup/GenerateRoster.aspx) to access tables of various licensed professionals. I extracted tables for Dentists, Plumbers, and Architects.
+#### I began the by going to the [Colorado Division of Professions and Occupations website](https://apps.colorado.gov/DORA/licensing/Lookup/GenerateRoster.aspx) to access tables of various licensed professionals. I extracted tables for Dentists, Plumbers, and Architects.
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/LicensedProfWebsite.png)
 
 #### Next, I reviewed the tables in Microsoft SQL Server and combined the 3 tables using Union statements into one table 'CO_Professional'
