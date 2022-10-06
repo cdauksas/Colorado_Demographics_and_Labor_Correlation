@@ -9,7 +9,7 @@
 #### Next, I reviewed the tables in Microsoft SQL Server and combined the 3 tables using Union statements into one table 'CO_Professional'
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/combining3Tables.png)
 
-### Data Cleaning
+## Data Cleaning
 #### I deleted columns that weren't going to be used for this analysis:
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/droppingColumns.png)
 
