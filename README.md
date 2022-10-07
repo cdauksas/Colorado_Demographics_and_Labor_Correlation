@@ -46,7 +46,7 @@
 - Denver County has the highest count of dentists with 862 Licensed Dentists.
 
 #### Which counties have relatively high numbers of dentists? 
-  - For the percent of dentists in each county I computed: Percent_dentists = ( [Population Over 16] / Count of dentists) * 100. Let's also pull in [Mean Household Income] per county. I can then compare counties with high dentists to see if there is a correlation to larger household incomes.
+  - For the percent of dentists in each county I calculated: Percent_dentists = ( [Population Over 16] / Count of dentists) * 100. Let's also pull in [Mean Household Income] per county. I can then compare counties with high dentists to see if there is a correlation to larger household incomes.
   
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SanJuan.755.png)
 
