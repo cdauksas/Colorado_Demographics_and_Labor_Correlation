@@ -35,7 +35,7 @@
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/CreateSplitCounty.png)
 
-#### I have created a new column ‘SplitCounty’ and this will be the primary key to join CO_professional  and CO_census table
+#### I have created a new column ‘SplitCounty’ and this will be the primary key to join the CO_professional  and CO_census tables
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/FirstJoinOverview.png)
 
@@ -46,7 +46,7 @@
 - Denver County has the highest count of dentists with 862 Licensed Dentists.
 
 #### Which counties have relatively high numbers of dentists? 
-  - For the percent of dentists in each county I calculated: Percent_dentists = ( [Population Over 16] / Count of dentists) * 100. Let's also pull in [Mean Household Income] per county. I can then compare counties with high dentists to see if there is a correlation to larger household incomes.
+  - For the percent of dentists in each county I calculated: Percent_dentists = ( [Count of Dentists] / [Population Over 16]) * 100. Let's also pull in [Mean Household Income] per county. I can then compare counties with high dentists to see if there is a correlation to larger household incomes.
   
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SanJuan.755.png)
 
@@ -64,3 +64,24 @@
 
 #### Are there relatively more plumbers in counties with a higher percentage of females?
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/plumbersIncome.png)
+
+
+
+# Visualizations
+### I created these by importing the data into Tableau Public
+
+#### Count of Dentists
+
+![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/CountDentists.png)
+
+  - These are the top 10 counties by total number of Dentists.
+
+#### Percetange of Dentists in each County vs Average Household Income
+
+![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/IncomevsDentistPrcnt.png)
+
+ - We can see there is a positive correlation between the percentage of dentists in each county and the Household income. This may be due to the fact that dentists prefer to live in higher income counties and will get their license in these counties.
+ 
+ #### Percentage of Dentists in each County vs Percentage of Females
+ 
+ ![]()
