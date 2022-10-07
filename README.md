@@ -1,4 +1,4 @@
-# Colorado Licensed Professionals and Demographics Correlation :mountain_snow:
+# Colorado Licensed Professionals and Demographics Correlation Using SQL Server and Tableau :mountain_snow:
 ### I asked the question: For various licensed professionals in the state of Colorado, are there any characteristics (e.g., household income levels) at the county level that are highly associated with various professions?
  - For example: are Colorado dentists more likely to be licensed in high-income counties?
  - In order to do this project I joined tables from the US Census Bureau and Colorado Department of Regulatory Agencies
