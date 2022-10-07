@@ -92,6 +92,6 @@
   
  ### Percntage of Plumbers by each County vs Average Household Income
  
- ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/PlumbersIncome.png)
+ ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/PlumbersIncome3.png)
   
   - There is an inverse relationship between increasing household income by County and the amount of plumbers. More plumbers tend to be licensed in lower income counties, and it may be because they tend to live in cheaper areas of Colorado.
