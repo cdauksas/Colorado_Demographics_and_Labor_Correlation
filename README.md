@@ -84,4 +84,12 @@
  
  #### Percentage of Dentists in each County vs Percentage of Females
  
- ![]()
+ ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/prcntFemalevsDentsts.png)
+ 
+  - There is a slight correlation between the two variables. As there are more females in a county, there is slightly more dentists practicing in that county. It doesn't seem to be signficant enough to draw any conclusions.
+  
+  
+ #### Percntage of Plumbers by each County vs Average Household Income
+ 
+ ![](
+  
