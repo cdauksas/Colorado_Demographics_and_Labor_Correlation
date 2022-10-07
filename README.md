@@ -50,7 +50,7 @@
   
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SanJuan.755.png)
 
-#### San Juan has .75% of its population over 16 as dentists! The total population for folks 16 years and over is only 537. This seems to be an outlier, lets only consider counties where the population is greater than 10,000 and has more than 10 dentists.
+#### San Juan has .75% of its population over 16 as dentists! The total population is only 537. This seems to be an outlier, lets only consider counties where the population is greater than 10,000 and has more than 10 dentists.
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/PrcntDentistsandMeanIncome.png)
 
