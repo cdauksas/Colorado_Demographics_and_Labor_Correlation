@@ -78,7 +78,7 @@
 
 ### Percetange of Dentists in each County vs Average Household Income
 
-![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/IncomevsDentistPrcnt.png)
+![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/DentistIncme2.png)
 
  - We can see there is a positive correlation between the percentage of dentists in each county and the Household income. This may be due to the fact that dentists prefer to live in higher income counties and will get their license in these counties.
  - Routt County has the largest perntage of the population > 16 years old as licensed Dentists at .23%!
