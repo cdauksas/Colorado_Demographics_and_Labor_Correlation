@@ -48,7 +48,7 @@
 #### Which counties have relatively high numbers of dentists? 
   - For the percent of dentists in each county I computed: Percent_dentists = ( [Population Over 16] / Count of dentists) * 100. Let's also pull in [Mean Household Income] per county. I can then compare counties with high dentists to see if there is a correlation to larger household incomes.
   
-![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SanJuan.75.png)
+![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SanJuan.755.png)
 
 #### San Juan has .75% of its population over 16 as dentists! The total population for folks 16 years and over is only 537. This seems to be an outlier, lets only consider counties where the population is greater than 10,000 and has more than 10 dentists.
 
