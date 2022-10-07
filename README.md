@@ -68,28 +68,28 @@
 
 
 # Visualizations
-### Created using Tableau Public
+## Created using Tableau Public
 
-#### Count of Dentists by County in Colorado
+### Count of Dentists by County in Colorado
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/CountDentists.png)
 
-  - These are the top 10 counties by total number of Dentists.
+  - These are the top 10 counties by total number of Dentists. Denver County has the nighest number with 862 total dentists.
 
-#### Percetange of Dentists in each County vs Average Household Income
+### Percetange of Dentists in each County vs Average Household Income
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/IncomevsDentistPrcnt.png)
 
  - We can see there is a positive correlation between the percentage of dentists in each county and the Household income. This may be due to the fact that dentists prefer to live in higher income counties and will get their license in these counties.
  
- #### Percentage of Dentists in each County vs Percentage of Females
+ ### Percentage of Dentists in each County vs Percentage of Females
  
  ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/prcntFemalevsDentsts.png)
  
-  - There is a slight correlation between the two variables. As there are more females in a county, there is slightly more dentists practicing in that county. It doesn't seem to be signficant enough to draw any conclusions.
+  - There doesn't seem to be a correlation between the two variables. As there are more females in a county, there is slightly more dentists practicing in that county. It doesn't seem to be signficant enough to draw any conclusions.
   
   
- #### Percntage of Plumbers by each County vs Average Household Income
+ ### Percntage of Plumbers by each County vs Average Household Income
  
  ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/PlumbersIncome.png)
   
