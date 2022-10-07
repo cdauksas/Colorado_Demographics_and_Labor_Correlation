@@ -68,9 +68,9 @@
 
 
 # Visualizations
-### I created these by importing the data into Tableau Public
+### Created using Tableau Public
 
-#### Count of Dentists
+#### Count of Dentists by County in Colorado
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/CountDentists.png)
 
@@ -91,5 +91,6 @@
   
  #### Percntage of Plumbers by each County vs Average Household Income
  
- ![](
+ ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/PlumbersIncome.png)
   
+  - There is an inverse relationship between increasing household income by County and the amount of plumbers. More plumbers tend to be licensed in lower income counties, and it may be because they tend to live in cheaper areas of Colorado.
