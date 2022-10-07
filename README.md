@@ -56,10 +56,11 @@
 
 #### Are there relatively more dentists in counties with a higher percentage of females?
  - I will create a column named Percent_Dentists (Population/Count of Dentists) , and also create a column Percent_female (Female Population / Population)
-![]()
+![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/percentFemale.png)
 
-#### Are there relatively more dentists in counties with a higher percentage of Armed Forces?
- ![]()
  
 #### Let's now take a look at the plumbers. Let's see what counties have a higher percentage of plumbers and compare that to average household income.
-![]()
+![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/plumbersIncome.png)
+
+#### Are there relatively more plumbers in counties with a higher percentage of females?
+![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/plumbersIncome.png)
